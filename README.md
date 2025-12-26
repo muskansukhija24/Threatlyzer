@@ -1,5 +1,12 @@
 <h2>Threatlyzer</h2>
 <h3>Advance Security System with Proactive Detection</h3>
+<h3>Members</h3>
+<ol>Lead - Piyush Kumar Singh</ol>
+<ol>Co-Lead - Ansari Murtaza Muzammil Akhtar</ol>
+<ol>Vanshika Agrawal</ol>
+<ol>Muskan Sukhijiya</ol>
+<ol>Abhradwip Lala</ol>
+<ol>Shivangee Gupta</ol>
 <h4>An App for the Malware Detection and Extraction of File 
 Content in Isolated Window</h4>
 <p>This project presents the Threatlyzer app, an 
