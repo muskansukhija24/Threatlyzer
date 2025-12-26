@@ -4,7 +4,7 @@
 <ol>Lead - Piyush Kumar Singh</ol>
 <ol>Co-Lead - Ansari Murtaza Muzammil Akhtar</ol>
 <ol>Vanshika Agrawal</ol>
-<ol>Muskan Sukhijiya</ol>
+<ol>Muskan Sukhija</ol>
 <ol>Abhradwip Lala</ol>
 <ol>Shivangee Gupta</ol><hr>
 <h4>An App for the Malware Detection and Extraction of File 
